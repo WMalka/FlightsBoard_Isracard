@@ -1,0 +1,23 @@
+node_modules
+package-lock.json
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+[Ll]ogs/
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# ASP.NET Core secrets
+secrets.json
+ .vs/
