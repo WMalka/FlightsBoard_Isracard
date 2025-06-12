@@ -1,0 +1,34 @@
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes glow {
+  0% {
+    box-shadow: 0 0 0 rgba(66, 165, 245, 0);
+  }
+  50% {
+    box-shadow: 0 0 10px rgba(66, 165, 245, 0.5);
+  }
+  100% {
+    box-shadow: 0 0 0 rgba(66, 165, 245, 0);
+  }
+}
+
+.fade-in {
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+.status-change {
+  transition: background-color 0.3s ease-in-out;
+}
+
+.row-updated {
+  animation: glow 2s ease-in-out;
+}

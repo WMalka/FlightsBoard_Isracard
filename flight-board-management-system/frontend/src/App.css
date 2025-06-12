@@ -1,0 +1,67 @@
+.App {
+  text-align: center;
+  padding: 2rem;
+}
+
+.flight-board {
+  margin: 2rem auto;
+  max-width: 1200px;
+}
+
+.flight-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: white;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.flight-table th,
+.flight-table td {
+  padding: 1rem;
+  text-align: left;
+  border-bottom: 1px solid #eee;
+}
+
+.flight-table th {
+  background-color: #f8f9fa;
+  font-weight: 600;
+}
+
+.flight-row {
+  transition: all 0.3s ease;
+}
+
+.flight-row:hover {
+  background-color: #f8f9fa;
+}
+
+.flight-row.new {
+  animation: slideIn 0.5s ease-out;
+}
+
+.flight-row.updated {
+  animation: glow 2s ease-in-out;
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes glow {
+  0% {
+    background-color: #ffffff;
+  }
+  50% {
+    background-color: #e3f2fd;
+  }
+  100% {
+    background-color: #ffffff;
+  }
+}

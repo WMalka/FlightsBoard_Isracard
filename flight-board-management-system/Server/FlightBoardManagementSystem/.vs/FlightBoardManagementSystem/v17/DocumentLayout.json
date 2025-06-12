@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Office\\Documents\\My Web Sites\\Isracard\\flight-board-management-system\\Server\\FlightBoardManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A8CF80B-7FC2-423F-BD98-56E12DE0CF9A}|FlightBoard.API\\FlightBoard.API.csproj|c:\\users\\office\\documents\\my web sites\\isracard\\flight-board-management-system\\server\\flightboardmanagementsystem\\flightboard.api\\controllers\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A8CF80B-7FC2-423F-BD98-56E12DE0CF9A}|FlightBoard.API\\FlightBoard.API.csproj|solutionrelative:flightboard.api\\controllers\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B003E367-1284-4AD4-8B66-16594F4461B1}|FlightBoard.Infrastructure\\FlightBoard.Infrastructure.csproj|c:\\users\\office\\documents\\my web sites\\isracard\\flight-board-management-system\\server\\flightboardmanagementsystem\\flightboard.infrastructure\\data\\flightboardcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B003E367-1284-4AD4-8B66-16594F4461B1}|FlightBoard.Infrastructure\\FlightBoard.Infrastructure.csproj|solutionrelative:flightboard.infrastructure\\data\\flightboardcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A8CF80B-7FC2-423F-BD98-56E12DE0CF9A}|FlightBoard.API\\FlightBoard.API.csproj|c:\\users\\office\\documents\\my web sites\\isracard\\flight-board-management-system\\server\\flightboardmanagementsystem\\flightboard.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A8CF80B-7FC2-423F-BD98-56E12DE0CF9A}|FlightBoard.API\\FlightBoard.API.csproj|solutionrelative:flightboard.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A8CF80B-7FC2-423F-BD98-56E12DE0CF9A}|FlightBoard.API\\FlightBoard.API.csproj|c:\\users\\office\\documents\\my web sites\\isracard\\flight-board-management-system\\server\\flightboardmanagementsystem\\flightboard.api\\logs\\flightboard20250611.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1A8CF80B-7FC2-423F-BD98-56E12DE0CF9A}|FlightBoard.API\\FlightBoard.API.csproj|solutionrelative:flightboard.api\\logs\\flightboard20250611.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B003E367-1284-4AD4-8B66-16594F4461B1}|FlightBoard.Infrastructure\\FlightBoard.Infrastructure.csproj|c:\\users\\office\\documents\\my web sites\\isracard\\flight-board-management-system\\server\\flightboardmanagementsystem\\flightboard.infrastructure\\repositories\\flightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B003E367-1284-4AD4-8B66-16594F4461B1}|FlightBoard.Infrastructure\\FlightBoard.Infrastructure.csproj|solutionrelative:flightboard.infrastructure\\repositories\\flightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A8CF80B-7FC2-423F-BD98-56E12DE0CF9A}|FlightBoard.API\\FlightBoard.API.csproj|c:\\users\\office\\documents\\my web sites\\isracard\\flight-board-management-system\\server\\flightboardmanagementsystem\\flightboard.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A8CF80B-7FC2-423F-BD98-56E12DE0CF9A}|FlightBoard.API\\FlightBoard.API.csproj|solutionrelative:flightboard.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A8CF80B-7FC2-423F-BD98-56E12DE0CF9A}|FlightBoard.API\\FlightBoard.API.csproj|c:\\users\\office\\documents\\my web sites\\isracard\\flight-board-management-system\\server\\flightboardmanagementsystem\\flightboard.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A8CF80B-7FC2-423F-BD98-56E12DE0CF9A}|FlightBoard.API\\FlightBoard.API.csproj|solutionrelative:flightboard.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A8CF80B-7FC2-423F-BD98-56E12DE0CF9A}|FlightBoard.API\\FlightBoard.API.csproj|c:\\users\\office\\documents\\my web sites\\isracard\\flight-board-management-system\\server\\flightboardmanagementsystem\\flightboard.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A8CF80B-7FC2-423F-BD98-56E12DE0CF9A}|FlightBoard.API\\FlightBoard.API.csproj|solutionrelative:flightboard.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A8CF80B-7FC2-423F-BD98-56E12DE0CF9A}|FlightBoard.API\\FlightBoard.API.csproj|c:\\users\\office\\documents\\my web sites\\isracard\\flight-board-management-system\\server\\flightboardmanagementsystem\\flightboard.api\\hubs\\flighthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A8CF80B-7FC2-423F-BD98-56E12DE0CF9A}|FlightBoard.API\\FlightBoard.API.csproj|solutionrelative:flightboard.api\\hubs\\flighthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924711AA-6414-482F-903D-318E93319C5A}|FlightBoard.Services\\FlightBoard.Services.csproj|c:\\users\\office\\documents\\my web sites\\isracard\\flight-board-management-system\\server\\flightboardmanagementsystem\\flightboard.services\\services\\flightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924711AA-6414-482F-903D-318E93319C5A}|FlightBoard.Services\\FlightBoard.Services.csproj|solutionrelative:flightboard.services\\services\\flightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924711AA-6414-482F-903D-318E93319C5A}|FlightBoard.Services\\FlightBoard.Services.csproj|c:\\users\\office\\documents\\my web sites\\isracard\\flight-board-management-system\\server\\flightboardmanagementsystem\\flightboard.services\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924711AA-6414-482F-903D-318E93319C5A}|FlightBoard.Services\\FlightBoard.Services.csproj|solutionrelative:flightboard.services\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924711AA-6414-482F-903D-318E93319C5A}|FlightBoard.Services\\FlightBoard.Services.csproj|c:\\users\\office\\documents\\my web sites\\isracard\\flight-board-management-system\\server\\flightboardmanagementsystem\\flightboard.services\\dtos\\createflightdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924711AA-6414-482F-903D-318E93319C5A}|FlightBoard.Services\\FlightBoard.Services.csproj|solutionrelative:flightboard.services\\dtos\\createflightdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924711AA-6414-482F-903D-318E93319C5A}|FlightBoard.Services\\FlightBoard.Services.csproj|c:\\users\\office\\documents\\my web sites\\isracard\\flight-board-management-system\\server\\flightboardmanagementsystem\\flightboard.services\\interfaces\\iflightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924711AA-6414-482F-903D-318E93319C5A}|FlightBoard.Services\\FlightBoard.Services.csproj|solutionrelative:flightboard.services\\interfaces\\iflightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924711AA-6414-482F-903D-318E93319C5A}|FlightBoard.Services\\FlightBoard.Services.csproj|c:\\users\\office\\documents\\my web sites\\isracard\\flight-board-management-system\\server\\flightboardmanagementsystem\\flightboard.services\\dtos\\flightdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924711AA-6414-482F-903D-318E93319C5A}|FlightBoard.Services\\FlightBoard.Services.csproj|solutionrelative:flightboard.services\\dtos\\flightdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961451D3-A15F-4269-B343-D6BC2B5A1BDD}|FlightBoard.Core\\FlightBoard.Core.csproj|c:\\users\\office\\documents\\my web sites\\isracard\\flight-board-management-system\\server\\flightboardmanagementsystem\\flightboard.core\\interfaces\\iflightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961451D3-A15F-4269-B343-D6BC2B5A1BDD}|FlightBoard.Core\\FlightBoard.Core.csproj|solutionrelative:flightboard.core\\interfaces\\iflightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961451D3-A15F-4269-B343-D6BC2B5A1BDD}|FlightBoard.Core\\FlightBoard.Core.csproj|c:\\users\\office\\documents\\my web sites\\isracard\\flight-board-management-system\\server\\flightboardmanagementsystem\\flightboard.core\\entities\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961451D3-A15F-4269-B343-D6BC2B5A1BDD}|FlightBoard.Core\\FlightBoard.Core.csproj|solutionrelative:flightboard.core\\entities\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961451D3-A15F-4269-B343-D6BC2B5A1BDD}|FlightBoard.Core\\FlightBoard.Core.csproj|c:\\users\\office\\documents\\my web sites\\isracard\\flight-board-management-system\\server\\flightboardmanagementsystem\\flightboard.core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961451D3-A15F-4269-B343-D6BC2B5A1BDD}|FlightBoard.Core\\FlightBoard.Core.csproj|solutionrelative:flightboard.core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B003E367-1284-4AD4-8B66-16594F4461B1}|FlightBoard.Infrastructure\\FlightBoard.Infrastructure.csproj|c:\\users\\office\\documents\\my web sites\\isracard\\flight-board-management-system\\server\\flightboardmanagementsystem\\flightboard.infrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B003E367-1284-4AD4-8B66-16594F4461B1}|FlightBoard.Infrastructure\\FlightBoard.Infrastructure.csproj|solutionrelative:flightboard.infrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924711AA-6414-482F-903D-318E93319C5A}|FlightBoard.Services\\FlightBoard.Services.csproj|c:\\users\\office\\documents\\my web sites\\isracard\\flight-board-management-system\\server\\flightboardmanagementsystem\\flightboard.services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924711AA-6414-482F-903D-318E93319C5A}|FlightBoard.Services\\FlightBoard.Services.csproj|solutionrelative:flightboard.services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Office\\Documents\\My Web Sites\\Isracard\\flight-board-management-system\\Server\\FlightBoardManagementSystem\\FlightBoard.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "FlightBoard.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Office\\Documents\\My Web Sites\\Isracard\\flight-board-management-system\\Server\\FlightBoardManagementSystem\\FlightBoard.API\\appsettings.Development.json",
+              "RelativeToolTip": "FlightBoard.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-10T22:19:07.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Office\\Documents\\My Web Sites\\Isracard\\flight-board-management-system\\Server\\FlightBoardManagementSystem\\FlightBoard.API\\appsettings.json",
+              "RelativeDocumentMoniker": "FlightBoard.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Office\\Documents\\My Web Sites\\Isracard\\flight-board-management-system\\Server\\FlightBoardManagementSystem\\FlightBoard.API\\appsettings.json",
+              "RelativeToolTip": "FlightBoard.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-10T22:18:57.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Office\\Documents\\My Web Sites\\Isracard\\flight-board-management-system\\Server\\FlightBoardManagementSystem\\FlightBoard.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FlightBoard.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Office\\Documents\\My Web Sites\\Isracard\\flight-board-management-system\\Server\\FlightBoardManagementSystem\\FlightBoard.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FlightBoard.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-10T22:11:21.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Office\\Documents\\My Web Sites\\Isracard\\flight-board-management-system\\Server\\FlightBoardManagementSystem\\FlightBoard.API\\Program.cs",
+              "RelativeDocumentMoniker": "FlightBoard.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Office\\Documents\\My Web Sites\\Isracard\\flight-board-management-system\\Server\\FlightBoardManagementSystem\\FlightBoard.API\\Program.cs",
+              "RelativeToolTip": "FlightBoard.API\\Program.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAmwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:41:47.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlightRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Office\\Documents\\My Web Sites\\Isracard\\flight-board-management-system\\Server\\FlightBoardManagementSystem\\FlightBoard.Infrastructure\\Repositories\\FlightRepository.cs",
+              "RelativeDocumentMoniker": "FlightBoard.Infrastructure\\Repositories\\FlightRepository.cs",
+              "ToolTip": "C:\\Users\\Office\\Documents\\My Web Sites\\Isracard\\flight-board-management-system\\Server\\FlightBoardManagementSystem\\FlightBoard.Infrastructure\\Repositories\\FlightRepository.cs",
+              "RelativeToolTip": "FlightBoard.Infrastructure\\Repositories\\FlightRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA4wCcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:19:07.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FlightBoardContext.cs",
+              "DocumentMoniker": "C:\\Users\\Office\\Documents\\My Web Sites\\Isracard\\flight-board-management-system\\Server\\FlightBoardManagementSystem\\FlightBoard.Infrastructure\\Data\\FlightBoardContext.cs",
+              "RelativeDocumentMoniker": "FlightBoard.Infrastructure\\Data\\FlightBoardContext.cs",
+              "ToolTip": "C:\\Users\\Office\\Documents\\My Web Sites\\Isracard\\flight-board-management-system\\Server\\FlightBoardManagementSystem\\FlightBoard.Infrastructure\\Data\\FlightBoardContext.cs",
+              "RelativeToolTip": "FlightBoard.Infrastructure\\Data\\FlightBoardContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwDoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:53:21.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FlightsController.cs",
+              "DocumentMoniker": "C:\\Users\\Office\\Documents\\My Web Sites\\Isracard\\flight-board-management-system\\Server\\FlightBoardManagementSystem\\FlightBoard.API\\Controllers\\FlightsController.cs",
+              "RelativeDocumentMoniker": "FlightBoard.API\\Controllers\\FlightsController.cs",
+              "ToolTip": "C:\\Users\\Office\\Documents\\My Web Sites\\Isracard\\flight-board-management-system\\Server\\FlightBoardManagementSystem\\FlightBoard.API\\Controllers\\FlightsController.cs",
+              "RelativeToolTip": "FlightBoard.API\\Controllers\\FlightsController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T10:35:00.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "flightboard20250611.txt",
+              "DocumentMoniker": "C:\\Users\\Office\\Documents\\My Web Sites\\Isracard\\flight-board-management-system\\Server\\FlightBoardManagementSystem\\FlightBoard.API\\logs\\flightboard20250611.txt",
+              "RelativeDocumentMoniker": "FlightBoard.API\\logs\\flightboard20250611.txt",
+              "ToolTip": "C:\\Users\\Office\\Documents\\My Web Sites\\Isracard\\flight-board-management-system\\Server\\FlightBoardManagementSystem\\FlightBoard.API\\logs\\flightboard20250611.txt",
+              "RelativeToolTip": "FlightBoard.API\\logs\\flightboard20250611.txt",
+              "ViewState": "AgIAAAoBAAAAAAAAAAAAAAYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-10T23:18:52.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FlightService.cs",
+              "DocumentMoniker": "C:\\Users\\Office\\Documents\\My Web Sites\\Isracard\\flight-board-management-system\\Server\\FlightBoardManagementSystem\\FlightBoard.Services\\Services\\FlightService.cs",
+              "RelativeDocumentMoniker": "FlightBoard.Services\\Services\\FlightService.cs",
+              "ToolTip": "C:\\Users\\Office\\Documents\\My Web Sites\\Isracard\\flight-board-management-system\\Server\\FlightBoardManagementSystem\\FlightBoard.Services\\Services\\FlightService.cs",
+              "RelativeToolTip": "FlightBoard.Services\\Services\\FlightService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:45:07.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Office\\Documents\\My Web Sites\\Isracard\\flight-board-management-system\\Server\\FlightBoardManagementSystem\\FlightBoard.Services\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "FlightBoard.Services\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Office\\Documents\\My Web Sites\\Isracard\\flight-board-management-system\\Server\\FlightBoardManagementSystem\\FlightBoard.Services\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "FlightBoard.Services\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:27:28.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FlightHub.cs",
+              "DocumentMoniker": "C:\\Users\\Office\\Documents\\My Web Sites\\Isracard\\flight-board-management-system\\Server\\FlightBoardManagementSystem\\FlightBoard.API\\Hubs\\FlightHub.cs",
+              "RelativeDocumentMoniker": "FlightBoard.API\\Hubs\\FlightHub.cs",
+              "ToolTip": "C:\\Users\\Office\\Documents\\My Web Sites\\Isracard\\flight-board-management-system\\Server\\FlightBoardManagementSystem\\FlightBoard.API\\Hubs\\FlightHub.cs",
+              "RelativeToolTip": "FlightBoard.API\\Hubs\\FlightHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:37:17.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IFlightService.cs",
+              "DocumentMoniker": "C:\\Users\\Office\\Documents\\My Web Sites\\Isracard\\flight-board-management-system\\Server\\FlightBoardManagementSystem\\FlightBoard.Services\\Interfaces\\IFlightService.cs",
+              "RelativeDocumentMoniker": "FlightBoard.Services\\Interfaces\\IFlightService.cs",
+              "ToolTip": "C:\\Users\\Office\\Documents\\My Web Sites\\Isracard\\flight-board-management-system\\Server\\FlightBoardManagementSystem\\FlightBoard.Services\\Interfaces\\IFlightService.cs",
+              "RelativeToolTip": "FlightBoard.Services\\Interfaces\\IFlightService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:28:38.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateFlightDto.cs",
+              "DocumentMoniker": "C:\\Users\\Office\\Documents\\My Web Sites\\Isracard\\flight-board-management-system\\Server\\FlightBoardManagementSystem\\FlightBoard.Services\\DTOs\\CreateFlightDto.cs",
+              "RelativeDocumentMoniker": "FlightBoard.Services\\DTOs\\CreateFlightDto.cs",
+              "ToolTip": "C:\\Users\\Office\\Documents\\My Web Sites\\Isracard\\flight-board-management-system\\Server\\FlightBoardManagementSystem\\FlightBoard.Services\\DTOs\\CreateFlightDto.cs",
+              "RelativeToolTip": "FlightBoard.Services\\DTOs\\CreateFlightDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:27:09.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FlightDto.cs",
+              "DocumentMoniker": "C:\\Users\\Office\\Documents\\My Web Sites\\Isracard\\flight-board-management-system\\Server\\FlightBoardManagementSystem\\FlightBoard.Services\\DTOs\\FlightDto.cs",
+              "RelativeDocumentMoniker": "FlightBoard.Services\\DTOs\\FlightDto.cs",
+              "ToolTip": "C:\\Users\\Office\\Documents\\My Web Sites\\Isracard\\flight-board-management-system\\Server\\FlightBoardManagementSystem\\FlightBoard.Services\\DTOs\\FlightDto.cs",
+              "RelativeToolTip": "FlightBoard.Services\\DTOs\\FlightDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:24:47.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IFlightRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Office\\Documents\\My Web Sites\\Isracard\\flight-board-management-system\\Server\\FlightBoardManagementSystem\\FlightBoard.Core\\Interfaces\\IFlightRepository.cs",
+              "RelativeDocumentMoniker": "FlightBoard.Core\\Interfaces\\IFlightRepository.cs",
+              "ToolTip": "C:\\Users\\Office\\Documents\\My Web Sites\\Isracard\\flight-board-management-system\\Server\\FlightBoardManagementSystem\\FlightBoard.Core\\Interfaces\\IFlightRepository.cs",
+              "RelativeToolTip": "FlightBoard.Core\\Interfaces\\IFlightRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:05:11.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\Office\\Documents\\My Web Sites\\Isracard\\flight-board-management-system\\Server\\FlightBoardManagementSystem\\FlightBoard.Core\\Entities\\Flight.cs",
+              "RelativeDocumentMoniker": "FlightBoard.Core\\Entities\\Flight.cs",
+              "ToolTip": "C:\\Users\\Office\\Documents\\My Web Sites\\Isracard\\flight-board-management-system\\Server\\FlightBoardManagementSystem\\FlightBoard.Core\\Entities\\Flight.cs",
+              "RelativeToolTip": "FlightBoard.Core\\Entities\\Flight.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:00:41.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Office\\Documents\\My Web Sites\\Isracard\\flight-board-management-system\\Server\\FlightBoardManagementSystem\\FlightBoard.Core\\Program.cs",
+              "RelativeDocumentMoniker": "FlightBoard.Core\\Program.cs",
+              "ToolTip": "C:\\Users\\Office\\Documents\\My Web Sites\\Isracard\\flight-board-management-system\\Server\\FlightBoardManagementSystem\\FlightBoard.Core\\Program.cs",
+              "RelativeToolTip": "FlightBoard.Core\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T19:28:42.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Office\\Documents\\My Web Sites\\Isracard\\flight-board-management-system\\Server\\FlightBoardManagementSystem\\FlightBoard.Infrastructure\\Program.cs",
+              "RelativeDocumentMoniker": "FlightBoard.Infrastructure\\Program.cs",
+              "ToolTip": "C:\\Users\\Office\\Documents\\My Web Sites\\Isracard\\flight-board-management-system\\Server\\FlightBoardManagementSystem\\FlightBoard.Infrastructure\\Program.cs",
+              "RelativeToolTip": "FlightBoard.Infrastructure\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:15:26.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Office\\Documents\\My Web Sites\\Isracard\\flight-board-management-system\\Server\\FlightBoardManagementSystem\\FlightBoard.Services\\Program.cs",
+              "RelativeDocumentMoniker": "FlightBoard.Services\\Program.cs",
+              "ToolTip": "C:\\Users\\Office\\Documents\\My Web Sites\\Isracard\\flight-board-management-system\\Server\\FlightBoardManagementSystem\\FlightBoard.Services\\Program.cs",
+              "RelativeToolTip": "FlightBoard.Services\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:14:31.278Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
