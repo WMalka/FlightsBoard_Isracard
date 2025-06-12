@@ -49,7 +49,7 @@ Server/FlightBoardManagementSystem/
 │   ├── Services/
 │   └── FlightBoard.Services.csproj
 └── FlightBoardManagementSystem.sln
-
+```
 ### Frontend Structure
 ```
 frontend/
