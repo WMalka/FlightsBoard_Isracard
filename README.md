@@ -15,6 +15,10 @@ A real-time flight board management application that enables tracking and managi
 - 🎭 Smooth animations for status changes
 - ⚡ Optimized performance with React memo
 
+## Project Preview
+![image](https://github.com/user-attachments/assets/97d604c2-f75e-4366-bd70-3a2c16c1a6ea)
+
+
 ## Project Structure
 
 ### Backend Structure
